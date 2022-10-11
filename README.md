@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 🤠
 
 <!--
 **rceci64/rceci64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Working in:
+- PHP 🅿
+- Unreal
+- Unity
