@@ -30,6 +30,6 @@ I also have fun hacking: \
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 and ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) in general!
 
---> ![itch.io](https://rceci.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rceci.itch.io/)
 
 <!--https://github.com/Ileriayo/markdown-badges-->
